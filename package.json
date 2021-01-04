@@ -1,0 +1,23 @@
+{
+  "name": "lazychocollector",
+  "version": "1.0.0",
+  "description": "Download all 24",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dalbyte/LazyChoCollector.git"
+  },
+  "author": "Dalbyte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dalbyte/LazyChoCollector/issues"
+  },
+  "homepage": "https://github.com/Dalbyte/LazyChoCollector#readme",
+  "dependencies": {
+    "download": "^8.0.0",
+    "jsdom": "^16.4.0"
+  }
+}
